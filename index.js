@@ -17,6 +17,8 @@ const person = {
   }
 };
 
+_______________________________________
+
 console.log(personInfo(person));
 /*
 {
